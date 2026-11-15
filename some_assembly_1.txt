@@ -1,1 +1,2 @@
 wasm2wat main.wasm | Select-String -Pattern '\(data'
+->"academy{8c87cb4dcc87959c351f832e6a165296}"
