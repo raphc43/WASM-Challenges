@@ -1,0 +1,1 @@
+wasm2wat main.wasm | Select-String -Pattern '\(data'
