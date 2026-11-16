@@ -1,0 +1,2 @@
+The encrypted string can either be brute forced with a reversed single byte XOR cipher algorithm or we can directly inspect the WAT file.
+Answer is "academy{217f0babdae45710109bb2e6ac1b134a}"
